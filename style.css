@@ -14,9 +14,8 @@ body{
     color: #7A7C80;
 
 }
-
-h2,.white{
-    color: #fff;
+h2.pink {
+    color: #846d8f;
 }
 
 a{
@@ -82,7 +81,7 @@ a{
     transition: 0.3s;
 }
 
-.white:hover{
+.pink:hover{
     position: relative;
     padding-left: 10px;
 }
